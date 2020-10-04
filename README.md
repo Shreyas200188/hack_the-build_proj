@@ -1,5 +1,5 @@
 # Know your Disease and Doc
-## Prediction of ailment using symptoms and depression symptoms
+## Prediction of ailment using symptoms
 
 **What does this app do?**
 
@@ -9,5 +9,12 @@ When a person is ill, usually he/she consults a general physician who then the p
 
 The biggest challenge was finding a good dataset which has the right balance of the number of features and the variety of diseases. 
 We had trouble integrating the app which was made using flutter and the ML model which was made on google collaboratory.
+
+**Technologies we used:**
+
+- Google Colab
+- Android Studio
+- Flutter
+- Python
 
 Dataset link : [Link](https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning)
