@@ -1,0 +1,10 @@
+skin
+ent
+stomach
+bowel movement and digestion
+urinary issues
+movement and joints
+eyes and vision
+heart and circulation
+behavioural issues
+general

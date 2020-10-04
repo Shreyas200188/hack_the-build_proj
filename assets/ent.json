@@ -1,0 +1,19 @@
+[
+
+	{
+	 "1":	 "continuous_sneezing",
+	 "2":	 "cough",
+	 "3":	 "phlegm",
+	 "4":	 "throat_irritation",
+	 "5":	 "mucoid_sputum",
+	 "6":	 "rusty_sputum",
+	 "7":	 "silver_like_dusting",
+	 "8":	 "patches_in_throat",
+	 "9":	 "runny_nose",
+	 "10":	 "congestion",
+	 "11":	 "loss_of_smell",
+	 "12":	 "blood_in_sputum",
+	 "13":	 "sinus_pressure"
+	}
+
+]

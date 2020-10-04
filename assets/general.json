@@ -1,0 +1,42 @@
+[
+
+	{
+	 "1":	 "fatigue",
+	 "2":	 "weight_gain",
+	 "3":	 "weight_loss",
+	 "4":	 "lethargy",
+	 "5":	 "high_fever",
+	 "6":	 "breathlessness",
+	 "7":	 "sweating",
+	 "8":	 "dehydration",
+	 "9":	 "headache",
+	 "10":	 "nausea",
+	 "11":	 "mild_fever",
+	 "12":	 "dizziness",
+	 "13":	 "obesity",
+	 "14":	 "bruising",
+	 "15":	 "shivering",
+	 "16":	 "chills",
+	 "17":	 "cold_hands_and_feets",
+	 "18":	 "chest_pain",
+	 "19":	 "small_dents_in_nails",
+	 "20":	 "inflammatory_nails",
+	 "21":	 "brittle_nails",
+	 "22":	 "ulcers_on_tongue",
+	 "23":	 "irregular_sugar_level",
+	 "24":	 "acute_liver_failure",
+	 "25":	 "fluid_overload",
+	 "26":	 "enlarged_thyroid",
+	 "27":	 "extra_marital_contacts",
+	 "28":	 "internal_itching",
+	 "29":	 "family_history",
+	 "30":	 "receiving_blood_transfusion",
+	 "31":	 "receiving_unsterile_injections",
+	 "32":	 "coma",
+	 "33":	 "history_of_alcohol_consumption",
+	 "34":	 "fluid_overload",
+	 "35":	 "scurring",
+	 "36":	 "abnormal_menstruation"
+	}
+
+]

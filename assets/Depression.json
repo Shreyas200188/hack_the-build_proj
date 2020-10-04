@@ -1,0 +1,150 @@
+[
+    {
+        "1": "I do everything slowly.",
+        "2": "My future seems hopeless.",
+        "3": "I find it hard to concenterate when I read.",
+        "4": "All joy and pleasure seem to have disappeared from my life.",
+        "5": "I find it hard to make decisions.",
+        "6": "I have lost interest in things that used to mean a lot to me.",
+        "7": "I feel sad, depressed and unhappy.",
+        "8": "I feel restless and cannot relax.",
+        "9": "I feel tired.",
+        "10": "I find it hard to do even trivial things.",
+        "11": "I feel guilty and deserve to be punished.",
+        "12": "I feel like a failure.",
+        "13": "I feel empty - more dead than alive.",
+        "14": "My sleep is disturbed: too little, too much, or disturbed sleep.",
+        "15": "I wonder how I would commit suicide.",
+        "16": "I feel confined and imprisoned.",
+        "17": "I feel down even when something good happens to me.",
+        "18": "I have lost or gained weight without being on a diet."
+    },
+    {
+        "1": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "2": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "3": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "4": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "5": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "6": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "7": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "8": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "9": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "10": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "11": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "12": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "13": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "14": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "15": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "16": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "17": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        },
+        "18": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+	    "e": "5"
+        }
+    }
+]
