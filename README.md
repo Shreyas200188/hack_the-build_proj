@@ -1,4 +1,4 @@
-# Know your Disease and Doc
+# Know your Disease
 ## Prediction of ailment using symptoms
 
 **What does this app do?**
